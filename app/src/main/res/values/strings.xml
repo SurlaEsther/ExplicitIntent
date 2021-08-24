@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="this_is_second_activity">This is Second Activity</string>
+    <string name="onClick">Go to Home Activity</string>
+    <string name="go_to_other_activity">Go To Other Activity</string>
+    <string name="this_is_first_activity">This is First Activity</string>
+    <string name="go_to_home_page">go to home page</string>
+</resources>
